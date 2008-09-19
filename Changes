@@ -1,6 +1,9 @@
 Task::POE::IRC
 ==============
 
+1.10	Fri Sep 19 14:44:55 BST 2008
+	- Updated required versions.
+
 1.08	Tue Apr 22 09:16:29 BST 2008
 	- Switched to Task:: namespace
 

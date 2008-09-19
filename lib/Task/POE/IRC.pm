@@ -2,7 +2,7 @@ package Task::POE::IRC;
 
 use strict;
 use warnings;
-our $VERSION = '1.08';
+our $VERSION = '1.10';
 
 1;
 
@@ -20,13 +20,13 @@ Task::POE::IRC - Task to install all POE related IRC modules.
 
 Task::POE::IRC - L<Task> to install all L<POE> related IRC modules and optional dependencies.
 
-  POE 1.0001
+  POE 1.003
 
   POE::Component::Client::DNS 1.00
 
-  POE::Component::IRC 5.74
+  POE::Component::IRC 5.88
 
-  POE::Component::Server::IRC 1.30
+  POE::Component::Server::IRC 1.32
 
 =head1 LICENSE
 
