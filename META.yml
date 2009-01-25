@@ -17,10 +17,10 @@ no_index:
     - t
 requires:
   POE: 1.003
-  POE::Component::Client::DNS: 1
-  POE::Component::IRC: 5.88
-  POE::Component::Server::IRC: 1.32
+  POE::Component::Client::DNS: 1.02
+  POE::Component::IRC: 5.9
+  POE::Component::Server::IRC: 1.36
   perl: 5.6.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.10
+version: 1.12

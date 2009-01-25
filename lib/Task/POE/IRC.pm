@@ -2,7 +2,7 @@ package Task::POE::IRC;
 
 use strict;
 use warnings;
-our $VERSION = '1.10';
+our $VERSION = '1.12';
 
 1;
 

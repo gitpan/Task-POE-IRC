@@ -1,6 +1,9 @@
 Task::POE::IRC
 ==============
 
+1.12	Sun Jan 25 14:25:16 GMT 2009
+	- Updated required versions
+
 1.10	Fri Sep 19 14:44:55 BST 2008
 	- Updated required versions.
 
